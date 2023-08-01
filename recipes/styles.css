@@ -5,8 +5,25 @@
     background-color:black;
     font-style:oblique;
 }
+
 .links {
     font-size:30px;
     font-family:sans-serif;
     color:red;
+}
+
+.korean.food {
+    height:500px;
+    width: 600px;
+}
+#kimchi {
+    height:500px;
+    width:700px;
+}
+
+.recipe.name {
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:orange;
+    text-align:center;
 }
